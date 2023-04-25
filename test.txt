@@ -1,0 +1,8 @@
+Ich benötige eine Webseite für mein Projekt.
+Der ganze HTML Code soll dynamisch in JavaScript erzeugt werden.
+1. Ich benötige eine Navbar, welches mehrere Links hat. Diese sollten fürs erste "#" machen.
+2. Über der Navbar soll ein Banner sein welches ein Bild einbindet. Dieses Bild soll dynamisch sich anpassen und die Webseite genau füllen. Die Navbar sollte auch sticky sein und oben an der Seite kleben falls man scrollen muss.
+3. unter der Navbar soll ein div sein, welches die komplette Breite der Webseite in 3 teilt. Jedes div sollte zentriert ein Bild von einer Person haben und eine kleine Beschreibung unter dem Portrait. Die Bilder werden Schwarzweiß sein. Unter der Beschreibung werden noch bis zu 5 Fakten als Liste dargestellt. Die ganzen divs sollten einen schatten werfen, als würden diese ein wenig vor dem Hintergrund sein.
+4. Jedes HTML Objkt sollte eine sinnvolle id besitzen.
+5. Die ganze Webseite sollte in diversen Grautönen und Schwarz sein und dunklere Töne sind zu bevorzugen.
+6. Außerdem braucht die Webseite einen Footer in welchem "2023-?" steht. "?" steht für eine Methode welche das aktuelle Jahr anzeigt. Danach sollte eine mailto:xxx@xxx.de kommen und zum Abschluss ein Copyright von Enes Sabi.
